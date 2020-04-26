@@ -5,7 +5,7 @@ The Router class is responsible for creating and presenting view controllers in 
 
 ### Controller
 
-This class prepares viewModels from model (?) objects for displaying UI in different screens, and implements some protocols because this class has to update UI when the viewcontroller appears, when a location is selected and when  a text field is edited.
+This class prepares viewModels from model objects for displaying UI in different screens, and implements some protocols because this class has to update UI when the viewcontroller appears, when a location is selected and when search text is added.
 
 ### WebService
 
