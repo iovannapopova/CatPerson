@@ -10,3 +10,5 @@ This class prepares viewModels from model (?) objects for displaying UI in diffe
 ### WebService
 
 Resource struct represents the single endpoint on the backend. We put everything we need to make a request to the server and to parse a response in this struct. Since it is a generic struct we can specify the type which will represent the server response and take advantage of Swift's strong typing. Inspired by objc.io
+
+I think the next step for me would be increasing the tests coverage, improving the downloading of the images, using an appropriate size of them. 
